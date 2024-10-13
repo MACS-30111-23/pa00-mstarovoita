@@ -1,15 +1,33 @@
 # PA 00
+# My personal biography
+## About me
+**Name**: [Marija Starovoita]
+**Nationality**: [Latvian]
+I was born and raised in Latvia, I have competed as part of the Latvian National Team doing rhythmic gymnastics. I have co-founded a charity in high school that supports local Latvian orphanages with disabled kids. I am paasionate about finance and economics.
 
-For this assignment, you will submit TWO files -- the readme and the script file. 
 
+## Education
+**University of Chicago**: Currently pursuing a degree in economics and a minor in computational social science
 
-Edit this README file to include a brief biography of yourself. Your README should include the following elements:
-* Headers (one or more)
-* Emphasis (italics or/and bold)
-* Lists
-* Images: add a picture (of yourself or something else) to your repo and embed it in your README
-* Links
-* A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
+## Achievements
+**Gymnastics**: competed internationally, representing Latvia.
+**Charity Work**: Co -founded a charity when I was 14 years old, since then we have raised mroe than $50K for orhpanages involved in my program.
+
+## Role Models
+*Solange Docommun*: Private Banker and Co-Founder of the Women by UBS Club
+
+## Image
+![first_competition](https://github.com/user-attachments/assets/6dd43d07-3f88-440f-aedc-886b35ddf74f)
+* This is a picture of me and my dad at my first ever gymnastics competition. This picture means a lot to me because it shows what a long way I have came in the sport.
+
+[Here is a link to my LinkedIn profile](https://www.linkedin.com/in/marija-starovoita)
+
+## Summary of the Workflow adopted for this homework
+1. **Edited the `README.md` file** directly within the existing structure.
+2. **Made regular commits** to track the changes and maintain version control.
+3. **Commited the changes** back to the remote repository using `git push`.
+4. I didn't create a new branch as I was editing the repository that was already set up for this assignment.
+
 
 
 
